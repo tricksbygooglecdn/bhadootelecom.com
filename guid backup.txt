@@ -1,0 +1,1 @@
+ROOT=/dev/sda1 SRC=/android DATA=/dev/sdb1 SDCARD=/dev/sdc1 PREBUNDLEDAPPSFS=/dev/sdd1 HOST=WIN GUID=ada5b327-18c0-11e7-81e3-20ea1600b643 VERSION=0.10.0.4321 bstandroidport=9999 OEM=BlueStacks LANG=en_US armSwitch=true armApps=true GlMode=1 DNS2=8.8.8.8 OEMFEATURES=0 caCode=410 country=IN pcode=ddfa WINDOWSAGENT=10.0.2.2:2861 WINDOWSFRONTEND=10.0.2.2:2871
